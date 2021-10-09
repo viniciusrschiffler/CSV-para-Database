@@ -13,7 +13,7 @@ const tops = []
 let dataInterface = {}
 
 console.time('register')
-fs.createReadStream("./src/top200completo.csv",)
+fs.createReadStream("./src/top200.csv",)
     .pipe(csv.parse({ headers: true }))
     .on("error", error => console.log(error))
     .on("data", data => {
