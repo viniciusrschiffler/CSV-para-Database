@@ -29,7 +29,7 @@ Planilha no excel
 <br><br>
 Modelo do Banco já modelado
 
-<img src=ImgForREADME/modeloDb.png />
+<img src=ImgForREADME/modeloDB.png />
 <br><br><br><br>
 
 Depois de já normalizado, deveria-mos inserir alguns dados da planilha no Banco, porém depois, olhando a planilha percebemos que ela era maior que imaginava-mos.
