@@ -7,8 +7,6 @@
 - [Sobre](#-sobre)
 - [Como Testar o Projeto](#-Como-Testar-o-Projeto)
 - [Tecnologias](#-Tecnologias)
-- [Funcionalidades](#-Funcionalidades)
-- [Imagens](#-Imagens)
 - [Veja Mais Sobre Mim ](#-Veja-Mais-Sobre-Mim)
 
 ---
